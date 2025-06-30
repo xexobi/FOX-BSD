@@ -1,13 +1,16 @@
-# 4.4BSD-Lite2 (Modified – UEFI/Modern Build)
+# FOX-BSD IS A 4.4BSD-Lite2 (Modified – UEFI/Modern Build)
 
-#Download from :https://ftp.mizar.org/packages/4.4BSD-Lite/4.4BSD-Lite2.tar.gz
+# Downloaded from :
+```
+:https://ftp.mizar.org/packages/4.4BSD-Lite/4.4BSD-Lite2.tar.gz
+```
 
 This repository contains a modified and legally distributable version of the original **4.4BSD-Lite2** source code, released in 1995 by the **Computer Systems Research Group (CSRG)** at the University of California, Berkeley.
 
 ## ✅ Legal Notice
 
 The original distribution contained a directory named `Domestic/,Foreign/,a/,b/,c/,dump/,altroot/,amd/`, which included cryptographic software (e.g., DES, Kerberos).  
-DELETED FOLDER AND FILES
+## DELETED FOLDER AND FILES
 Domestic/,
 Foreign/,
 dump/,
