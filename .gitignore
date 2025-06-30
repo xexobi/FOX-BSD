@@ -1,0 +1,7 @@
+# Build artifacts
+*.o
+*.out
+*.core
+obj/
+compile/
+tags
