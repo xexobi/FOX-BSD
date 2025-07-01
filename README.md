@@ -20,7 +20,7 @@ All remaining code is under the **BSD 4-Clause** or **BSD-like** licenses and is
 This version includes additional work to support modern environments, such as:
 - UEFI boot support (work in progress)
 
-## DELETED FOLDER AND FILES
+## Deleted folders and files
 - `Domestic/,` **[deleted]** 
 - `Foreign/, ` **[deleted]** 
 - `dump/,    ` **[deleted]** 
