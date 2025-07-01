@@ -1,7 +1,7 @@
 # FOX-BSD
 > A Modern Fork of 4.4BSD-Lite2 with UEFI Support
 
-# Downloaded from 
+# 📥 Downloaded from 
 ```
 https://ftp.mizar.org/packages/4.4BSD-Lite/4.4BSD-Lite2.tar.gz
 ```
@@ -21,7 +21,7 @@ All remaining code is under the **BSD 4-Clause** or **BSD-like** licenses and is
 This version includes additional work to support modern environments, such as:
 - UEFI boot support (work in progress)
 
-## Deleted folders and files
+## 🗑️Deleted folders and files
 - `Domestic/,` **[deleted]** 
 - `Foreign/, ` **[deleted]** 
 - `dump/,    ` **[deleted]** 
