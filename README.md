@@ -19,21 +19,18 @@ All remaining code is under the **BSD 4-Clause** or **BSD-like** licenses and is
 
 This version includes additional work to support modern environments, such as:
 - UEFI boot support (work in progress)
-- Cleaned Makefiles
-- Removed obsolete device drivers
-- Legacy libc and tools preservation
 
 ## DELETED FOLDER AND FILES
-- Domestic/,
-- Foreign/,
-- dump/,
-- altroot/,
-- amd/,
-- a/,
-- b/,
-- c/,
-- .cshrc,
-- .profile,
+- [**deleted**] Domestic/,
+- [**deleted**] Foreign/, 
+- [**deleted**] dump/,    
+- [**deleted**] altroot/,
+- [**deleted**] amd/,
+- [**deleted**] a/,
+- [**deleted**] b/,
+- [**deleted**] c/,
+- [**deleted**] .cshrc,
+- [**deleted**] .profile,
 - etc.
 
 ## 📜 Licensing
