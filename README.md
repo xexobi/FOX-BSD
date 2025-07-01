@@ -1,4 +1,5 @@
-# FOX-BSD IS A 4.4BSD-Lite2 (Modified – UEFI/Modern Build)
+# FOX-BSD
+> A Modern Fork of 4.4BSD-Lite2 with UEFI Support
 
 # Downloaded from 
 ```
