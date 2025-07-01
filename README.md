@@ -21,16 +21,16 @@ This version includes additional work to support modern environments, such as:
 - UEFI boot support (work in progress)
 
 ## DELETED FOLDER AND FILES
-- [**deleted**] `Domestic/,`
-- [**deleted**] `Foreign/, `
-- [**deleted**] `dump/,    `
-- [**deleted**] `altroot/, `
-- [**deleted**] `amd/,     `
-- [**deleted**] `a/,       `
-- [**deleted**] `b/,       `
-- [**deleted**] `c/,       `
-- [**deleted**] `.cshrc,   `
-- [**deleted**] `.profile, `
+- `Domestic/,`[**deleted**] 
+- `Foreign/, `[**deleted**] 
+- `dump/,    `[**deleted**] 
+- `altroot/, `[**deleted**] 
+- `amd/,     `[**deleted**] 
+- `a/,       `[**deleted**] 
+- `b/,       `[**deleted**] 
+- `c/,       `[**deleted**] 
+- `.cshrc,   `[**deleted**] 
+- `.profile, `[**deleted**] 
 - etc.
 
 ## 📜 Licensing
